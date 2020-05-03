@@ -1,1 +1,1 @@
-deploy: artifact: my_source_bundle.zip
+deploy: artifact: CICDDemoGit-master1.zip
